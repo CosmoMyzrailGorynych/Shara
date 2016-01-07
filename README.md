@@ -1,6 +1,6 @@
 **Shara** was made to make content shareable.
 
-![meta/default.png][]
+![default.png][]
 
 #Supported services
 
