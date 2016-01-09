@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/CosmoMyzrailGorynych/Shara.svg?style=flat-square)](https://github.com/CosmoMyzrailGorynych/Shara/releases/tag/v1.1.0) [![Made with Prepros](https://img.shields.io/badge/I%20%E2%9D%A4-prepros-15BDC3.svg?style=flat-square)](http://prepros.io/) 
+
 **Shara** was made to make content shareable.
 
 ![default.png][]
